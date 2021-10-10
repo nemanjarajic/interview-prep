@@ -9,3 +9,5 @@
 
 ### [Facebook](https://github.com/nemanjarajic/interview-prep/tree/main/Facebook)
 - Right Side View (Binary Tree)
+- Add Two Numbers (Linked List)
+- First Bad Version
